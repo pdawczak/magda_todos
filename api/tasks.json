@@ -1,0 +1,13 @@
+[{
+  id: 1,
+  name: "Change the nappy",
+  finished: false,
+}, {
+  id: 2,
+  name: "Feed the baby",
+  finished: false,
+}, {
+  id: 3,
+  name: "Do the exercise",
+  finished: true
+}]
